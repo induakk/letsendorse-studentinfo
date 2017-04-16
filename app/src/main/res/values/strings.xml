@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentInfo</string>
+    <string name="add_student">Add Student</string>
+    <string name="students">Students</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="save">Save</string>
+    <string name="takepic">Take a Picture</string>
+    <string name="opengallery">Open Gallery</string>
+    <string name="pickgallery">Select Picture</string>
+</resources>
